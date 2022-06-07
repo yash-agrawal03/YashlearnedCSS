@@ -79,14 +79,19 @@ margin: 100px 0;
   width: 40%;
   float:right;
   padding-left: 2.5rem;
-
 }
+.laugh
+{
+  float: left;
+  padding-right: 2rem;
+}
+/* }
 .standup
 {
   float: left;
   width: 350px;height: 300px;
   padding-right: 3rem;
-}
+} */
 .paragraphh
 {
   width: 40%;
